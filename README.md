@@ -2,7 +2,7 @@
 
 This project presents an interactive Tableau dashboard built from the 2014 **Inc5000 Company List** dataset. The dashboard provides insights into company growth, geographic distribution, workforce size, and industry trends for America’s fastest-growing private companies.
 
-## 📊 Dashboard Overview
+##  Dashboard Overview
 
 The dashboard includes the following visualizations:
 - **Geographic Distribution of Average Revenue:**  
@@ -20,7 +20,7 @@ The dashboard includes the following visualizations:
 - **Top 10 Cities by Inc5000 Company Count:**  
   Bar chart showing the top cities hosting Inc5000 companies.
 
-## 📝 Data Source
+##  Data Source
 
 - **Dataset:** [2014 Inc5000 Company List](https://www.inc.com/inc5000/list/2014)  
 - **Columns Used:**  

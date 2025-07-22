@@ -33,7 +33,7 @@ The dashboard includes the following visualizations:
   - `Workers`  
   - `Years on List`
 
-## 🔧 Tools Used
+##  Tools Used
 
 - **Tableau Public Desktop Edition**
 - **Data source file:** `Data Set- Inc5000 Company List_2014.csv`
